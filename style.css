@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+header{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.alvi1{
+    width: 50%;
+    margin: 80px;
+
+}
+.alvi1 img{
+    width: 100%;
+}
+.alvi1 h1,h4,button{
+   margin:30px ;
+}
+.alvi1 h1{
+    font-size: 60px;
+}
+.random-btn{
+    padding: 15px 30px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to left , orange, tomato  );
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.middle{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-image:url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.alvi2{
+    width: 50%;
+
+}
+.alvi2 img{
+    width: 50%;
+    margin-left: 180px;
+}
+.alvi2 h1{
+    font-size: 50px;
+}
+.alvi2 h1 , p, button{margin: 40px;
+    
+}
+.random-btn2{
+    padding: 15px 30px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to left , orange, tomato  );
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.recipy{
+   margin-top: 150px;
+   margin-bottom: 30px;
+}
+.box{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+.card{
+    width: 40%;
+    margin-left: 50px;
+   padding-top: 50px;
+   box-shadow: 10px 10px 50px gray;
+   border-radius: 30px;
+   text-align: center;
+}
+.card img{
+    width: 560px;
+    height: 350px;
+
+}
+.card h1,p{
+    text-align: left;
+    margin-left: 50px;
+}
+.footer1{
+margin: 150px;
+   
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 150px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 20px;
+}
+.blog{
+    width: 30%;
+    margin-left: 150px;
+  
+}
+.blog h1{
+    font-size: 50px;
+}
+.blog h5{
+    font-size: 20px;
+}
+footer{
+    background-color: #0B0D17;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
